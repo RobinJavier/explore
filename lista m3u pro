@@ -1,0 +1,64 @@
+#EXTM3U 
+#EXTINF:-1, 2
+https://stream-01.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2p9y-gAHrj8rCm-Z8M0wUSOzVPclj2oEtQfZjNgpx2Dj)/dm/3/x809r6i/d/live-1.m3u8#cell=lnyc
+#EXTINF:-1, 2.1
+https://stream-03.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2p9y-gAHrj8rCm-Z8M0wUSOzVPclj2oEtQfZjNgpx2Dj)/dm/3/x809r6i/d/live-1.m3u8#cell=lnyc
+#EXTINF:-1, 4
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1, 4.1
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1, 5
+https://player-api.new.livestream.com/accounts/27456795/events/10633780/broadcasts/233707841.secure.m3u8?dw=14400&hdnea=st%3D1668057414~exp%3D1668059214~acl%3D%2Fi%2F27456795_10633780_lsis95zxn1oz2v38aef_1%40174572%2F%2A~hmac%3Db9b83f08d2302e25a4903b8a5b77f80059b36c944c1b5412656349ce0b971850&token=636c8a72_acfdb8d4fcfcb82c11d58d23e031fa04aaf2af9b
+#EXTINF:-1, 7
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7_270.m3u8
+#EXTINF:-1, 9
+https://stream-02.nyc.dailymotion.com/sec(O-7bth6lxCIslucX64-RY9P3Rmc7e5C6KnFC88txIGkO2IyX4q6Oyuaj3eFyPbG-)/dm/3/x7gy059/d/live-3.m3u8#cell=lnyc
+#EXTINF:-1, 10
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1, 11
+https://stream-04.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2qNzJdREKQsKlZRoftl3I9vAdkD8NBAESmLgNHt5v1kF)/dm/3/x80ac48/s/live-3.m3u8#cell=lnyc
+#EXTINF:-1, 13
+https://player-api.new.livestream.com/accounts/27456795/events/10501048/broadcasts/233707838.secure.m3u8?dw=14400&hdnea=st%3D1668062953~exp%3D1668064753~acl%3D%2Fi%2F27456795_10501048_lsin5ymnp1qiat9xdme_1%40446575%2F%2A~hmac%3D893d06fa214c09c5742c6cb43ee8ac032ec69df4b7b945d85e43d94040d234dd&token=636ca015_84a635fd4d4acfd9e7fcd0884e1b10955735f013
+#EXTINF:-1, 15
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/8268514/player
+#EXTINF:-1, 21
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:-1, 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:-1, 25.1
+https://ss3.domint.net:3150/c25_str/canal25/chunklist_w720144784.m3u8
+#EXTINF:-1, 27
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w2097825300.m3u8
+#EXTINF:-1, 29
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1, 37
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8?p=79&s=1668065348&e=1668065468&h=0b3e9b3395e43cf8c3e00e705a7d2da0
+#EXTINF:-1, Musavision
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
+#EXTINF:-1, Nitida TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:-1, Cotubanana
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+#EXTINF:-1, Crom TV
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+#EXTINF:-1, Telemax
+https://cdn2.streamgato.us/telemax/telemax/playlist.m3u8
+#EXTINF:-1, Vallevision
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1, Megavision
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1, TeleCaribe
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8?PlaylistM3UCL
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
+#EXTINF:-1, 37
